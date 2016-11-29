@@ -3,7 +3,7 @@ package utils
 import (
   "math/rand"
   "time"
-  "github.com/gillesdemey/ponysay/ponies"
+  "github.com/LearyBiscuit/ponysay/ponies"
 )
 
 func ListPonies() ([]string) {

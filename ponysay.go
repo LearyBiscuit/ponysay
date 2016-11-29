@@ -2,7 +2,7 @@ package main
 
 import (
   "fmt"
-  "github.com/gillesdemey/ponysay/utils"
+  "github.com/LearyBiscuit/ponysay/utils"
 )
 
 // this is where we bootstrap the CLI program

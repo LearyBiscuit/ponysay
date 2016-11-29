@@ -2,7 +2,7 @@ package utils
 
 import (
   "regexp"
-  "github.com/gillesdemey/ponysay/ponies"
+  "github.com/LearyBiscuit/ponysay/ponies"
 )
 
 // Pony object
